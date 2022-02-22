@@ -8,6 +8,7 @@
 
 <hr/>
 
+<p align="center"><img src="PROGRESS.png" /></p>
 <p align="center">Currently in <b>phase 1</b>, the main core of 42stellar is being written by <a href="https://github.com/42Atomys">@42Atomys</a>, helped by his friend <a href="https://github.com/rgaiffe">@rgaiffe</a>, two ex-42staff.</p>
 
 <hr />
